@@ -1306,9 +1306,10 @@ input, select, textarea {
 	}
 
 	body {
-		background-image: url("images/overlay.png"), url("images/bg.jpg");
+		background-image: url("images/overlay.png"), url("images/bg-strings.png");
 		background-repeat: repeat, no-repeat;
-		background-size: auto, 100% 100%;
+		background-size: cover;
+		background-position: center;
 		background-attachment: fixed;
 		overflow-y: scroll;
 	}
@@ -1736,6 +1737,7 @@ input, select, textarea {
 		text-decoration: none;
 		position: relative;
 		text-decoration: none;
+		filter: drop-shadow(3px 3px 1px rgba(0, 0, 0, 0.5));
 	}
 
 		.icon:before {
@@ -1772,7 +1774,6 @@ input, select, textarea {
 	#nav {
 		text-align: center;
 		height: 4.25em;
-		cursor: default;
 	}
 
 		#nav a {

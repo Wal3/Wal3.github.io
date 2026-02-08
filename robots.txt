@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://wal3.github.io/sitemap.xml

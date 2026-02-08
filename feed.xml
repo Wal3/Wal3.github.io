@@ -3,12 +3,28 @@
     <title>Wal3 Audio</title>
     <link href="https://wal3.github.io/feed.xml" rel="self" />
     <link href="https://wal3.github.io" />
-    <updated>2026-02-07T21:39:14-03:00</updated>
+    <updated>2026-02-07T22:43:24-03:00</updated>
     <author>
         <name>Wal3</name>
     </author>
     <id>https://wal3.github.io</id>
 
+    <entry>
+        <title>Demo Reel</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/demo-reel.html"/>
+        <id>https://wal3.github.io/demo-reel.html</id>
+
+        <updated>2026-02-07T22:43:24-03:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <div>  <div class="post__iframe"><iframe loading="lazy" width="1612" height="728" src="https://www.youtube.com/embed/B18M6fLVgOk" title="Music Remake: Lost in Translation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Biografía</title>
         <author>
@@ -20,7 +36,7 @@
         <updated>2026-02-07T21:39:14-03:00</updated>
             <summary type="html">
                 <![CDATA[
-                    Matías (Wal3) es un productor y compositor musical argentino con experiencia en cine y videojuegos. Sus estudios en programación y composición le permiten&hellip;
+                    Matías (Wal3) es un productor y compositor musical argentino con experiencia en cine y videojuegos. Sus estudios en programación y composición le permiten integrar música de forma orgánica en sus proyectos. Los primeros años de su educación fueron orientados a la computación y la programación,&hellip;
                 ]]>
             </summary>
         <content type="html">

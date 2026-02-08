@@ -3,10 +3,39 @@
     <title>Wal3 Audio</title>
     <link href="https://wal3.github.io/feed.xml" rel="self" />
     <link href="https://wal3.github.io" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2026-02-07T21:39:14-03:00</updated>
     <author>
         <name>Wal3</name>
     </author>
     <id>https://wal3.github.io</id>
 
+    <entry>
+        <title>Biografía</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/biografia.html"/>
+        <id>https://wal3.github.io/biografia.html</id>
+
+        <updated>2026-02-07T21:39:14-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Matías (Wal3) es un productor y compositor musical argentino con experiencia en cine y videojuegos. Sus estudios en programación y composición le permiten&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <div id="bgLayers_comp-lqzsndkk1" class="MW5IWV" data-hook="bgLayers" data-motion-part="BG_LAYER comp-lqzsndkk1">
+<div class="LWbAav Kv1aVt" data-testid="colorUnderlay"><span style="font-size: inherit;">Matías (Wal3) es un productor y compositor musical argentino con experiencia en cine y videojuegos. Sus estudios en programación y composición le permiten integrar música de forma orgánica en sus proyectos.</span></div>
+</div>
+<div class="" data-mesh-id="comp-lqzsndkk1inlineContent" data-testid="inline-content">
+<div data-mesh-id="comp-lqzsndkk1inlineContent-gridContainer" data-testid="mesh-container-content">
+<div id="comp-lqzsndkl2" class="Z_l5lU ku3DBC zQ9jDz qvSjx3 Vq6kJx comp-lqzsndkl2 wixui-rich-text" data-testid="richTextElement">
+<p>Los primeros años de su educación fueron orientados a la computación y la programación, posteriormente desarrollando un interés por los medios audiovisuales que desembocó en sus estudios universitarios y eventual carrera como artista. Su formación fue enfocada en la composición e interpretación musical, así como la producción, mezcla y masterización de audio que fácilmente integró con sus otras disciplinas y experiencias en el área.</p>
+</div>
+</div>
+</div>
+            ]]>
+        </content>
+    </entry>
 </feed>

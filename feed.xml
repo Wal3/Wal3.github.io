@@ -3,7 +3,7 @@
     <title>Wal3 Audio</title>
     <link href="https://wal3.github.io/feed.xml" rel="self" />
     <link href="https://wal3.github.io" />
-    <updated>2026-02-24T19:46:49-03:00</updated>
+    <updated>2026-02-25T00:29:55-03:00</updated>
     <author>
         <name>Wal3</name>
     </author>
@@ -18,14 +18,11 @@
         <id>https://wal3.github.io/demo-reel.html</id>
 
         <updated>2026-02-07T22:43:24-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Musical Storytelling A curated selection of original scores exploring the intersection of organic performance and electronic textures. Each piece is crafted to serve&hellip;
-                ]]>
-            </summary>
+            <summary></summary>
         <content type="html">
             <![CDATA[
                 
+
     <h2 id="musical-storytelling">
       Musical Storytelling
     </h2>
@@ -50,32 +47,6 @@
   <p>
     DEMO YOUTUBE LINK
   </p>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Biography</title>
-        <author>
-            <name>Wal3</name>
-        </author>
-        <link href="https://wal3.github.io/biografia.html"/>
-        <id>https://wal3.github.io/biografia.html</id>
-
-        <updated>2026-02-07T21:39:14-03:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    Matías (Wal3) is an Argentine composer and sound designer who approaches sonic storytelling through a lens of logical precision and narrative depth. While&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <div id="bgLayers_comp-lqzsndkk1" class="MW5IWV" data-hook="bgLayers" data-motion-part="BG_LAYER comp-lqzsndkk1">
-<div class="LWbAav Kv1aVt" data-testid="colorUnderlay">
-<p data-path-to-node="5,0"><strong data-path-to-node="5,0" data-index-in-node="0">Matías (Wal3)</strong> is an Argentine composer and sound designer who approaches sonic storytelling through a lens of logical precision and narrative depth. While his core is rooted in musical composition and production, his background in computer programming provides a rare, structural perspective that enhances his collaboration with developers and directors alike.</p>
-<p data-path-to-node="5,0">Rather than being confined to a single role, Matías offers a versatile skill set that can navigate the fluid demands of a production. He is proficient in Wwise and FMOD, allowing him to speak the language of implementation while maintaining a focus on the emotional impact of the score.</p>
-<p data-path-to-node="5,2">His experience enables him to engage with the entire audio pipeline—from thematic sketching and performance to technical integration—ensuring that the final soundscape is an organic extension of the project's vision. For Wal3, audio is not just a finished file, but a dynamic element shaped by both artistic intuition and technical intelligence.</p>
-</div>
-</div>
             ]]>
         </content>
     </entry>

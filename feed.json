@@ -10,17 +10,107 @@
     },
     "items": [
         {
-            "id": "https://wal3.github.io/demo-reel/",
-            "url": "https://wal3.github.io/demo-reel/",
-            "title": "Demo Reels",
-            "content_html": "\n\n    <h2 id=\"musical-storytelling\">\n      Musical Storytelling\n    </h2>\n\n  <p>\n    A curated selection of original scores exploring the intersection of organic performance and electronic textures. Each piece is crafted to serve the narrative, shifting from intimate character studies to expansive, world-building themes.\n  </p>\n\n  <p>\n    DEMO YOUTUBE LINK\n  </p>\n<hr class=\"separator separator--long-line\" />\n\n    <h2 id=\"tactile-soundscapes\">\n      Tactile Soundscapes \n    </h2>\n\n  <p>\n    An exploration of immersive soundscapes and interactive audio. By blending hand-crafted foley with a systems-oriented perspective, these clips demonstrate how sound functions as a living, reactive extension of the visual experience.\n  </p>\n\n  <p>\n    DEMO YOUTUBE LINK\n  </p>",
+            "id": "https://wal3.github.io/ejemplo-7/",
+            "url": "https://wal3.github.io/ejemplo-7/",
+            "title": "Remake: King of Fighters 98&#x27;",
+            "summary": "Remake of the King of Fighters 98' videogame. Original music and sound effects.",
+            "content_html": "\n  <p>\n    Remake of the King of Fighters 98' videogame. Original music and sound effects.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/3wid-CIBDos\" title=\"Music + SFX/Foley Remake: The King of Fighters 98&#39;\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"673\" height=\"841\" src=\"https://www.youtube.com/embed/xwFQH9PyFuc\" title=\"Music + SFX/Foley Remake: The King of Fighters 98&#39;\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/22/kof.jpg",
             "author": {
                 "name": "Wal3"
             },
             "tags": [
+                   "Sound Design",
+                   "Portfolio",
+                   "Music"
             ],
-            "date_published": "2026-02-07T22:43:24-03:00",
-            "date_modified": "2026-02-26T01:53:42-03:00"
+            "date_published": "2025-02-26T02:52:00-03:00",
+            "date_modified": "2026-02-26T02:58:48-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-6/",
+            "url": "https://wal3.github.io/ejemplo-6/",
+            "title": "Remake: The Affair Intro",
+            "summary": "Remake of The Affair intro theme.",
+            "content_html": "\n  <p>\n    Remake of The Affair intro theme.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/TaIHhqLfUZo\" title=\"Music Remake: The Affair - Main Title Sequence/Intro/Opening\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/21/affair.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Portfolio",
+                   "Music"
+            ],
+            "date_published": "2025-02-26T02:47:00-03:00",
+            "date_modified": "2026-02-26T02:51:46-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-5/",
+            "url": "https://wal3.github.io/ejemplo-5/",
+            "title": "Remake: League of Legends",
+            "summary": "Remake of all the sound effects of League of Legend's Awaken music video",
+            "content_html": "\n  <p>\n    Remake of all the sound effects of League of Legend's Awaken music video\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/TvgkHV0f_5w\" title=\"SFX/Foley Remake: Awaken - League of Legends\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/20/840_560.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Sound Design",
+                   "Portfolio"
+            ],
+            "date_published": "2024-12-26T02:44:00-03:00",
+            "date_modified": "2026-02-26T02:56:15-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-4/",
+            "url": "https://wal3.github.io/ejemplo-4/",
+            "title": "Jabirú",
+            "summary": "Original orchestral composition, played by the UCA orchestra and directed by Julian Krause.",
+            "content_html": "\n  <p>\n    Original orchestral composition, played by the UCA orchestra and directed by Julian Krause.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/hyWFMpyVSOg\" title=\"Jabirú\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/13/jabiru.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Portfolio",
+                   "Music"
+            ],
+            "date_published": "2024-02-25T02:43:00-03:00",
+            "date_modified": "2026-02-25T02:56:31-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-3/",
+            "url": "https://wal3.github.io/ejemplo-3/",
+            "title": "Remake: Afternoon Class",
+            "summary": "Full audio remake.",
+            "content_html": "\n  <p>\n    Full audio remake.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/bRpgvA0woyI\" title=\"SFX/Foley Remake: Afternoon Class\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/12/Afternoon-Class.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Sound Design",
+                   "Portfolio"
+            ],
+            "date_published": "2023-02-25T02:40:00-03:00",
+            "date_modified": "2026-02-25T02:56:23-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-2/",
+            "url": "https://wal3.github.io/ejemplo-2/",
+            "title": "Remake: Lost in Translation",
+            "summary": "Re-score of a scene with a completely different direction",
+            "content_html": "\n  <p>\n    Re-score of a scene with a completely different direction\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1550\" height=\"768\" src=\"https://www.youtube.com/embed/B18M6fLVgOk\" title=\"Music Remake: Lost in Translation\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/11/greatest.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Portfolio",
+                   "Music"
+            ],
+            "date_published": "2023-02-25T02:10:00-03:00",
+            "date_modified": "2026-02-26T03:01:40-03:00"
         }
     ]
 }

@@ -3,50 +3,185 @@
     <title>Wal3 Audio</title>
     <link href="https://wal3.github.io/feed.xml" rel="self" />
     <link href="https://wal3.github.io" />
-    <updated>2026-02-26T01:53:42-03:00</updated>
+    <updated>2026-02-26T03:01:40-03:00</updated>
     <author>
         <name>Wal3</name>
     </author>
     <id>https://wal3.github.io</id>
 
     <entry>
-        <title>Demo Reels</title>
+        <title>Remake: King of Fighters 98&#x27;</title>
         <author>
             <name>Wal3</name>
         </author>
-        <link href="https://wal3.github.io/demo-reel/"/>
-        <id>https://wal3.github.io/demo-reel/</id>
+        <link href="https://wal3.github.io/ejemplo-7/"/>
+        <id>https://wal3.github.io/ejemplo-7/</id>
+        <media:content url="https://wal3.github.io/media/posts/22/kof.jpg" medium="image" />
+            <category term="Sound Design"/>
+            <category term="Portfolio"/>
+            <category term="Music"/>
 
-        <updated>2026-02-07T22:43:24-03:00</updated>
-            <summary></summary>
+        <updated>2025-02-26T02:52:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/22/kof.jpg" alt="" />
+                    Remake of the King of Fighters 98' videogame. Original music and sound effects.
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/22/kof.jpg" class="type:primaryImage" alt="" /></p>
                 
-
-    <h2 id="musical-storytelling">
-      Musical Storytelling
-    </h2>
-
   <p>
-    A curated selection of original scores exploring the intersection of organic performance and electronic textures. Each piece is crafted to serve the narrative, shifting from intimate character studies to expansive, world-building themes.
+    Remake of the King of Fighters 98' videogame. Original music and sound effects.
   </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/3wid-CIBDos" title="Music + SFX/Foley Remake: The King of Fighters 98&#39;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+<div><div class="post__iframe"><iframe loading="lazy" width="673" height="841" src="https://www.youtube.com/embed/xwFQH9PyFuc" title="Music + SFX/Foley Remake: The King of Fighters 98&#39;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Remake: The Affair Intro</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-6/"/>
+        <id>https://wal3.github.io/ejemplo-6/</id>
+        <media:content url="https://wal3.github.io/media/posts/21/affair.jpg" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Music"/>
 
+        <updated>2025-02-26T02:47:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/21/affair.jpg" alt="" />
+                    Remake of The Affair intro theme.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/21/affair.jpg" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    DEMO YOUTUBE LINK
+    Remake of The Affair intro theme.
   </p>
-<hr class="separator separator--long-line" />
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/TaIHhqLfUZo" title="Music Remake: The Affair - Main Title Sequence/Intro/Opening" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Remake: League of Legends</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-5/"/>
+        <id>https://wal3.github.io/ejemplo-5/</id>
+        <media:content url="https://wal3.github.io/media/posts/20/840_560.jpg" medium="image" />
+            <category term="Sound Design"/>
+            <category term="Portfolio"/>
 
-    <h2 id="tactile-soundscapes">
-      Tactile Soundscapes 
-    </h2>
-
+        <updated>2024-12-26T02:44:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/20/840_560.jpg" alt="" />
+                    Remake of all the sound effects of League of Legend's Awaken music video
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/20/840_560.jpg" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    An exploration of immersive soundscapes and interactive audio. By blending hand-crafted foley with a systems-oriented perspective, these clips demonstrate how sound functions as a living, reactive extension of the visual experience.
+    Remake of all the sound effects of League of Legend's Awaken music video
   </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/TvgkHV0f_5w" title="SFX/Foley Remake: Awaken - League of Legends" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Jabirú</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-4/"/>
+        <id>https://wal3.github.io/ejemplo-4/</id>
+        <media:content url="https://wal3.github.io/media/posts/13/jabiru.jpg" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Music"/>
 
+        <updated>2024-02-25T02:43:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/13/jabiru.jpg" alt="" />
+                    Original orchestral composition, played by the UCA orchestra and directed by Julian Krause.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/13/jabiru.jpg" class="type:primaryImage" alt="" /></p>
+                
   <p>
-    DEMO YOUTUBE LINK
+    Original orchestral composition, played by the UCA orchestra and directed by Julian Krause.
   </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/hyWFMpyVSOg" title="Jabirú" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Remake: Afternoon Class</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-3/"/>
+        <id>https://wal3.github.io/ejemplo-3/</id>
+        <media:content url="https://wal3.github.io/media/posts/12/Afternoon-Class.jpg" medium="image" />
+            <category term="Sound Design"/>
+            <category term="Portfolio"/>
+
+        <updated>2023-02-25T02:40:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/12/Afternoon-Class.jpg" alt="" />
+                    Full audio remake.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/12/Afternoon-Class.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Full audio remake.
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/bRpgvA0woyI" title="SFX/Foley Remake: Afternoon Class" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Remake: Lost in Translation</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-2/"/>
+        <id>https://wal3.github.io/ejemplo-2/</id>
+        <media:content url="https://wal3.github.io/media/posts/11/greatest.jpg" medium="image" />
+            <category term="Portfolio"/>
+            <category term="Music"/>
+
+        <updated>2023-02-25T02:10:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/11/greatest.jpg" alt="" />
+                    Re-score of a scene with a completely different direction
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/11/greatest.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Re-score of a scene with a completely different direction
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/B18M6fLVgOk" title="Music Remake: Lost in Translation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
             ]]>
         </content>
     </entry>

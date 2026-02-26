@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://wal3.github.io/demo-reel.html",
-            "url": "https://wal3.github.io/demo-reel.html",
-            "title": "View Demo Reels",
+            "id": "https://wal3.github.io/demo-reel/",
+            "url": "https://wal3.github.io/demo-reel/",
+            "title": "Demo Reels",
             "content_html": "\n\n    <h2 id=\"musical-storytelling\">\n      Musical Storytelling\n    </h2>\n\n  <p>\n    A curated selection of original scores exploring the intersection of organic performance and electronic textures. Each piece is crafted to serve the narrative, shifting from intimate character studies to expansive, world-building themes.\n  </p>\n\n  <p>\n    DEMO YOUTUBE LINK\n  </p>\n<hr class=\"separator separator--dots\" />\n\n    <h2 id=\"tactile-soundscapes\">\n      Tactile Soundscapes \n    </h2>\n\n  <p>\n    An exploration of immersive soundscapes and interactive audio. By blending hand-crafted foley with a systems-oriented perspective, these clips demonstrate how sound functions as a living, reactive extension of the visual experience.\n  </p>\n\n  <p>\n    DEMO YOUTUBE LINK\n  </p>",
             "author": {
                 "name": "Wal3"
@@ -20,7 +20,7 @@
             "tags": [
             ],
             "date_published": "2026-02-07T22:43:24-03:00",
-            "date_modified": "2026-02-25T19:04:48-03:00"
+            "date_modified": "2026-02-25T21:17:53-03:00"
         }
     ]
 }

@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://wal3.github.io/ejemplo-8/",
+            "url": "https://wal3.github.io/ejemplo-8/",
+            "title": "Remake: Lake Ridden",
+            "summary": "Remake of Lake Ridden's videogame audio. Original music and sound effects interactive through FMOD implementation.",
+            "content_html": "\n  <p>\n    Remake of Lake Ridden's videogame audio. Original music and sound effects interactive through FMOD implementation.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"1601\" height=\"768\" src=\"https://www.youtube.com/embed/_d84WLCSGLQ\" title=\"Music Remake: Lake Ridden\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></div></div>",
+            "image": "https://wal3.github.io/media/posts/23/lakeridden.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-02-26T16:13:00-03:00",
+            "date_modified": "2026-02-26T16:21:20-03:00"
+        },
+        {
             "id": "https://wal3.github.io/ejemplo-7/",
             "url": "https://wal3.github.io/ejemplo-7/",
             "title": "Remake: King of Fighters 98&#x27;",

@@ -20,9 +20,12 @@
                 "name": "Wal3"
             },
             "tags": [
+                   "Sound Design",
+                   "Portfolio",
+                   "Music"
             ],
             "date_published": "2025-02-26T16:13:00-03:00",
-            "date_modified": "2026-02-27T01:19:31-03:00"
+            "date_modified": "2026-02-28T17:47:52-03:00"
         },
         {
             "id": "https://wal3.github.io/ejemplo-7/",
@@ -126,6 +129,24 @@
             ],
             "date_published": "2023-02-25T02:10:00-03:00",
             "date_modified": "2026-02-26T03:01:40-03:00"
+        },
+        {
+            "id": "https://wal3.github.io/ejemplo-9/",
+            "url": "https://wal3.github.io/ejemplo-9/",
+            "title": "Las Llaves",
+            "summary": "Original soundtrack for \"Las Llaves\" videogame. Wal3 · Las Llaves",
+            "content_html": "\n  <p>\n    Original soundtrack for \"Las Llaves\" videogame.\n  </p>\n<div><div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"100%\" height=\"450\" scrolling=\"no\" frameborder=\"no\" allow=\"autoplay\" src=\"https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A998494648%3Fsecret_token%3Ds-3yr7kbNuflU&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true\"></iframe></div><div style=\"font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;\"><a href=\"https://soundcloud.com/wal3eloso\" title=\"Wal3\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Wal3</a> · <a href=\"https://soundcloud.com/wal3eloso/sets/las-llaves/s-3yr7kbNuflU\" title=\"Las Llaves\" target=\"_blank\" style=\"color: #cccccc; text-decoration: none;\">Las Llaves</a></div></div>",
+            "image": "https://wal3.github.io/media/posts/25/artworks-dxKUmRRhQNGpHjKo-Em2u2g-t500x500.jpg",
+            "author": {
+                "name": "Wal3"
+            },
+            "tags": [
+                   "Sound Design",
+                   "Portfolio",
+                   "Music"
+            ],
+            "date_published": "2019-02-28T17:48:00-03:00",
+            "date_modified": "2026-02-28T17:51:37-03:00"
         }
     ]
 }

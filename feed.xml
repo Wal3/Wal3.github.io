@@ -3,7 +3,7 @@
     <title>Wal3 Audio</title>
     <link href="https://wal3.github.io/feed.xml" rel="self" />
     <link href="https://wal3.github.io" />
-    <updated>2026-02-27T01:19:31-03:00</updated>
+    <updated>2026-02-28T17:51:37-03:00</updated>
     <author>
         <name>Wal3</name>
     </author>
@@ -17,6 +17,9 @@
         <link href="https://wal3.github.io/ejemplo-8/"/>
         <id>https://wal3.github.io/ejemplo-8/</id>
         <media:content url="https://wal3.github.io/media/posts/23/lakeridden.jpg" medium="image" />
+            <category term="Sound Design"/>
+            <category term="Portfolio"/>
+            <category term="Music"/>
 
         <updated>2025-02-26T16:13:00-03:00</updated>
             <summary type="html">
@@ -209,6 +212,36 @@
     Re-score of a scene with a completely different direction
   </p>
 <div><div class="post__iframe"><iframe loading="lazy" width="1550" height="768" src="https://www.youtube.com/embed/B18M6fLVgOk" title="Music Remake: Lost in Translation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Las Llaves</title>
+        <author>
+            <name>Wal3</name>
+        </author>
+        <link href="https://wal3.github.io/ejemplo-9/"/>
+        <id>https://wal3.github.io/ejemplo-9/</id>
+        <media:content url="https://wal3.github.io/media/posts/25/artworks-dxKUmRRhQNGpHjKo-Em2u2g-t500x500.jpg" medium="image" />
+            <category term="Sound Design"/>
+            <category term="Portfolio"/>
+            <category term="Music"/>
+
+        <updated>2019-02-28T17:48:00-03:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://wal3.github.io/media/posts/25/artworks-dxKUmRRhQNGpHjKo-Em2u2g-t500x500.jpg" alt="" />
+                    Original soundtrack for "Las Llaves" videogame. Wal3 · Las Llaves
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://wal3.github.io/media/posts/25/artworks-dxKUmRRhQNGpHjKo-Em2u2g-t500x500.jpg" class="type:primaryImage" alt="" /></p>
+                
+  <p>
+    Original soundtrack for "Las Llaves" videogame.
+  </p>
+<div><div class="post__iframe"><iframe loading="lazy" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%3Aplaylists%3A998494648%3Fsecret_token%3Ds-3yr7kbNuflU&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe></div><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/wal3eloso" title="Wal3" target="_blank" style="color: #cccccc; text-decoration: none;">Wal3</a> · <a href="https://soundcloud.com/wal3eloso/sets/las-llaves/s-3yr7kbNuflU" title="Las Llaves" target="_blank" style="color: #cccccc; text-decoration: none;">Las Llaves</a></div></div>
             ]]>
         </content>
     </entry>

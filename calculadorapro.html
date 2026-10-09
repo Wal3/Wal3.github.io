@@ -264,6 +264,7 @@
     padding: 0 !important;
     box-shadow: none !important;
     height: auto !important;
+    margin-left: auto !important;
 }
 
 .wal3-calc .pdf-btn:hover {
@@ -297,7 +298,7 @@
 @media (max-width: 600px) {
     .wal3-calc .grid-layout { grid-template-columns: 1fr !important; }
     .wal3-calc .result-area { flex-direction: column-reverse !important; align-items: stretch !important; text-align: center !important; }
-    .wal3-calc .pdf-btn { align-items: center !important; text-align: center !important; margin-bottom: 10px !important; }
+    .wal3-calc .pdf-btn { align-items: center !important; text-align: center !important; margin-bottom: 10px !important; margin-left: 0 !important;}
     .wal3-calc .multiplier-box { justify-content: center !important; }
 }
 </style>
@@ -508,7 +509,7 @@
 <script>
     // 'A' = Cliente (Solo cantidades, oculta tarifas base)
     // 'B' = Administrador (Puede editar tarifas base y divisas)
-    const MODO_CALCULADORA = 'B'; 
+    const MODO_CALCULADORA = 'A'; 
     
     let exchangeRates = { USD: 1, EUR: 0.92, ARS: 1100 }; 
     let useManualRates = false;
@@ -678,7 +679,7 @@
 
         html += `</tbody></table>`;
 
-        if(porcentajeAjuste !== "100" && MODO_CALCULADORA !== 'A') {
+        if(porcentajeAjuste !== "100" && MODO_CALCULADORA !== 'B') {
             html += `<p style="text-align: right; color: #666; font-size: 0.9em;">(Applied budget adjustment: ${porcentajeAjuste}%)</p>`;
         }
 
